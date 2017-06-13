@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ServletCalculator:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Latypova Alina.war">
+      <element id="artifact" artifact-name="ServletCalculator:war exploded" />
+    </root>
+  </artifact>
+</component>
